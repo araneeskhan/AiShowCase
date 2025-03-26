@@ -9,8 +9,6 @@ A modern, feature-rich AI development platform that combines multiple AI-powered
 [![GitHub issues](https://img.shields.io/github/issues/araneeskhan/AiShowCase)](https://github.com/araneeskhan/AiShowCase/issues)
 
 ## ✨ Features
-
-- 🎯 **AI Code Assistant** - Real-time code suggestions and pair programming
 - 📝 **Resume Analyzer** - AI-powered resume optimization
 - 👥 **Dev Community** - Collaborative development environment
 - 📊 **Smart Analytics** - Track coding progress with AI insights
